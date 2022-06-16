@@ -8,4 +8,8 @@ to delete the branch use git -d bramch name [ajet]
 
 iam having a trouble on accessing the password for git or for tokens usage the pasting is not working in the work directory
 
+iam practicing the git push and pull commands 
+
+after editing or adding on the file use git add file name to it and then use git commit -m name of the commit to it [ajet]
+
 
