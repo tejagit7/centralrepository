@@ -1,2 +1,9 @@
- hi this is github file that is created in central repo.
-always check if the capslock is enbaled or disabled `
+ hi this is github file that is created in central repo
+.
+always check if the capslock is enbaled or disabled
+
+to add branch u can also use git checkout branch name [ajet]
+
+to delete the branch use git -d bramch name [ajet]
+
+
